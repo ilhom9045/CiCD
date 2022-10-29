@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Alladin</string>
+    <string name="play">Играть</string>
+    <string name="record">Рекорд</string>
+    <string name="info">Информация</string>
+    <string name="restart">начать заново</string>
+    <string name="inputName">Название</string>
+    <string name="saveName">Сохранить</string>
+    <string name="exit">Выйти</string>
+    <string name="close">Закрыть</string>
+    <string name="cancel">Отмена</string>
+    <string name="recomended">Рекомендуемый возраст — от 2 до 99 лет.</string>
+    <string name="play_info">Эта игра — классическая игра «Мэмори» или «Найди пару!» — направлена на эффективное развитие способности к запоминанию и концентрации внимания. Игра также поможет Вашему ребенку научиться общению и совместной игре со взрослыми и другими детьми.</string>
+    <string name="name">Название</string>
+    <string name="your_new_record">У ваc новый рекорд хотите сохтарить его?</string>
+    <string name="your_dosn_hav_record">У вас еще нет зафиксированных рекордов</string>
+    <string name="your_records">"Ваши рекорды "</string>
+    <string name="turns">Повороты: </string>
+</resources>
